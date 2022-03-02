@@ -4,5 +4,6 @@
 - I have done well in the bootcamp and look forward to growing in my skills.
 - I am a nurse of 16 years and have so much to offer with my experiences in that field.
 - Nursing requires resiliency, continuing education, conflict resolution, versatility and so much more.
+- Please contact me at angelapacatte@gmail.com
 
 
