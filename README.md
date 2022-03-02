@@ -3,7 +3,7 @@
 - I am looking to get hired in a data analysis job very soon.  
 - I have done well in the bootcamp and look forward to growing in my skills.
 - I am a nurse of 16 years and have so much to offer with my experiences in that field.
-- Nursing requires resiliency, continuing education, conflict resolution, versatility and so much more.
+- Nursing requires resiliency, continuing education, conflict resolution, versatility and so much more that will transfer to any job.
 - Please contact me at angelapacatte@gmail.com
 
 
