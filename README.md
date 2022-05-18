@@ -8,5 +8,5 @@
 
 ### My Tech Stack
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" alt="python" width="150" height="150"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg)" alt="GitHub" width="250" height="250"/>
-<img src=https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg alt="VSCode" width="250" height="250"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg)" alt="GitHub" width="150" height="150"/>
+<img src=https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg alt="VSCode" width="150" height="150"/>
