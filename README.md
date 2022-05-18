@@ -8,5 +8,5 @@
 
 ### My Tech Stack
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" alt="python" width="150" height="150"/>
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg)" alt="GitHub" width="150" height="150"/>
 
