@@ -7,5 +7,5 @@
 
 
 ### My Tech Stack
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" alt="python" width="150" height="150"/> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="150" height="150"/> <img src=https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg alt="VSCode" width="150" height="150"/> src=<img align="center" alt="Gabb-tableau" height="45" width="40" src="https://user-images.githubusercontent.com/32903323/43256817-e40da78a-90c5-11e8-9c84-9471549a1259.png"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" alt="python" width="150" height="150"/> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="150" height="150"/> <img src=https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg alt="VSCode" width="150" height="150"/> <img align="center" alt="Gabb-tableau" height="150" width="150" src="https://user-images.githubusercontent.com/32903323/43256817-e40da78a-90c5-11e8-9c84-9471549a1259.png"/> 
 
